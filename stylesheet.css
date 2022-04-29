@@ -1,0 +1,13 @@
+.message {
+  padding: 20px 10px;
+  background-color: #ff9933;
+  cusor: pointer;
+  box-shadow: 0px 5px;
+}
+
+.btn {
+  color: #dddddd;
+  display: inline-block;
+  opacity: 0.8px;
+  border-radius: 10px;  
+}
